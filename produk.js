@@ -58,9 +58,9 @@ window.PRODUK = [
     gambar: ['https://lh3.googleusercontent.com/AXO-tS8Q8tp7OdvYxzVr2Ifz3Q6vv6I-XsmaaEOpjEATEMxuUhY0JndCJ_hy09TQPxfUtSp-aOF-jwkwRg=w1351']
   },
   {
-    id: 'aneka-pepes', nama: 'Aneka Pepes', kategori: 'Lauk', harga: 8000, stok: 30,
+    id: 'aneka-pepes', nama: 'Aneka Pepes', kategori: 'Lauk', harga: 6000, stok: 30,
     deskripsi: 'Pepes tahu jamur, ikan kembung, ikan mujair, dan ayam — pilih variannya. Harga per bungkus.',
-    varian: [{ nama: 'Isi', opsi: ['Tahu Jamur — Rp8.000', 'Ayam — Rp10.000', 'Ikan Kembung — Rp10.000', 'Ikan Mujair — Rp15.000'], tambah: { 'Ayam — Rp10.000': 2000, 'Ikan Kembung — Rp10.000': 2000, 'Ikan Mujair — Rp15.000': 7000 } }],
+    varian: [{ nama: 'Isi', opsi: ['Tahu Jamur — Rp6.000', 'Ayam — Rp10.000', 'Ikan Kembung — Rp18.000', 'Ikan Mujair — Rp15.000'], tambah: { 'Ayam — Rp10.000': 4000, 'Ikan Kembung — Rp18.000': 12000, 'Ikan Mujair — Rp15.000': 9000 } }],
     gambar: ['img/pepes-mujair.jpg', 'https://lh3.googleusercontent.com/Rm6mG_zIbMXEsWr_IiBQB2S1DZQa4Y5q2sIuJIK23ao40kMR77E4fMP3p1F1pm8mwjR2iQVm64m3GRG7zw=w1351']
   },
   {
